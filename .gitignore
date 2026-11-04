@@ -1,0 +1,8 @@
+# Visual Studio / SSDT temporary files
+*.suo
+*.user
+*.dtproj.user
+bin/
+obj/
+.vs/
+Thumbs.db
